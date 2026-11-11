@@ -1,0 +1,62 @@
+[
+  {
+    "original_text": "ទឹកត្រីដែលឆ្ងាញ់គឺធ្វើមកពីត្រីដែលរស់នៅក្នុងទឹកសាប",
+    "gold_tokens": [
+      "ទឹកត្រី",
+      "ដែល",
+      "ឆ្ងាញ់",
+      "គឺ",
+      "ធ្វើ",
+      "មកពី",
+      "ត្រី",
+      "ដែល",
+      "រស់នៅ",
+      "ក្នុង",
+      "ទឹកសាប"
+    ],
+    "source": "user-provided or user-confirmed reference examples",
+    "use": "evaluation only; never inserted as segmentation rules"
+  },
+  {
+    "original_text": "ខ្ញុំស្រឡាញ់ភាសាខ្មែរ",
+    "gold_tokens": [
+      "ខ្ញុំ",
+      "ស្រឡាញ់",
+      "ភាសា",
+      "ខ្មែរ"
+    ],
+    "source": "user-provided or user-confirmed reference examples",
+    "use": "evaluation only; never inserted as segmentation rules"
+  },
+  {
+    "original_text": "សិស្សអានសៀវភៅ",
+    "gold_tokens": [
+      "សិស្ស",
+      "អាន",
+      "សៀវភៅ"
+    ],
+    "source": "user-provided or user-confirmed reference examples",
+    "use": "evaluation only; never inserted as segmentation rules"
+  },
+  {
+    "original_text": "គាត់ទៅសាលារៀន",
+    "gold_tokens": [
+      "គាត់",
+      "ទៅ",
+      "សាលារៀន"
+    ],
+    "source": "user-provided or user-confirmed reference examples",
+    "use": "evaluation only; never inserted as segmentation rules"
+  },
+  {
+    "original_text": "កុមារកំពុងលេងបាល់",
+    "gold_tokens": [
+      "កុមារ",
+      "កំពុង",
+      "លេង",
+      "បាល់"
+    ],
+    "source": "user-provided or user-confirmed reference examples",
+    "use": "evaluation only; never inserted as segmentation rules"
+  }
+]

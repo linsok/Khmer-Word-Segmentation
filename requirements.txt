@@ -1,0 +1,12 @@
+# Web interface and tables
+streamlit>=1.35,<2
+pandas>=2.2,<4
+# Unicode Khmer grapheme handling
+regex>=2024.5
+# Optional in architecture, installed by default so CRF/neural choices work
+khmercut[nn]>=0.2.0,<0.3
+# Notebook + validation utilities
+notebook>=7,<8
+ipykernel>=6,<8
+nbformat>=5,<6
+pytest>=8,<10
